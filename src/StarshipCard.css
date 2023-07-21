@@ -1,0 +1,15 @@
+.card-title {
+    color: white;
+  }
+  .card {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  .card:hover {
+    background-color: #b19cd9;
+  }
